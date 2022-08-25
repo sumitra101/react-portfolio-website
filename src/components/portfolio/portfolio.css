@@ -32,6 +32,10 @@
     margin-bottom: 1rem;
 }
 
+.btn-disable {
+    opacity: 0.2;
+}
+
 
 /* =====media queries (Medium device)++*/
 @media screen and (max-width:1024px) {
