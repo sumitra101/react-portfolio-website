@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/react-portfolio-website/static/css/main.6f01cded.css",
-    "main.js": "/react-portfolio-website/static/js/main.370de521.js",
+    "main.css": "/react-portfolio-website/static/css/main.f023ef07.css",
+    "main.js": "/react-portfolio-website/static/js/main.f2440beb.js",
+    "static/media/concinnity.PNG": "/react-portfolio-website/static/media/concinnity.6b1d1eceb1b266c6ea94.PNG",
+    "static/media/greenweb.PNG": "/react-portfolio-website/static/media/greenweb.1bdfcdcdb5993dd07ab2.PNG",
     "static/media/788af61d-662d.png": "/react-portfolio-website/static/media/788af61d-662d.f27658c237315cdd4dd3.png",
-    "static/media/portfolio5.png": "/react-portfolio-website/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/react-portfolio-website/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/react-portfolio-website/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/seo-tool.PNG": "/react-portfolio-website/static/media/seo-tool.2b47b162af3280af3b6b.PNG",
+    "static/media/genesis-block.PNG": "/react-portfolio-website/static/media/genesis-block.ef7d9a806d5323de6dd8.PNG",
+    "static/media/qkly.PNG": "/react-portfolio-website/static/media/qkly.95750fc1351e9078cbf1.PNG",
+    "static/media/portfolio.PNG": "/react-portfolio-website/static/media/portfolio.952d34dc38e300e1c757.PNG",
     "static/media/Sumitra Khadka Resume.pdf": "/react-portfolio-website/static/media/Sumitra Khadka Resume.f4a6c03c9d16343eca1b.pdf",
-    "static/media/portfolio1.jpg": "/react-portfolio-website/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/react-portfolio-website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/972301.jpg": "/react-portfolio-website/static/media/972301.9a1b9ea9b92b9cf55284.jpg",
-    "static/media/portfolio4.jpg": "/react-portfolio-website/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/bizvue.PNG": "/react-portfolio-website/static/media/bizvue.52e13a08fbe88f9d33a3.PNG",
     "index.html": "/react-portfolio-website/index.html",
-    "main.6f01cded.css.map": "/react-portfolio-website/static/css/main.6f01cded.css.map",
-    "main.370de521.js.map": "/react-portfolio-website/static/js/main.370de521.js.map"
+    "main.f023ef07.css.map": "/react-portfolio-website/static/css/main.f023ef07.css.map",
+    "main.f2440beb.js.map": "/react-portfolio-website/static/js/main.f2440beb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f01cded.css",
-    "static/js/main.370de521.js"
+    "static/css/main.f023ef07.css",
+    "static/js/main.f2440beb.js"
   ]
 }
